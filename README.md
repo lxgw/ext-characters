@@ -28,8 +28,8 @@
 
 ## 字表
 
-- 外字初步整理一览表 第一部分[（Markdown）](tables/ext_characters_table.md)
-- 外字初步整理一览表 第二部分[（Markdown）](tables/ext_characters_table.md)
+- 外字初步整理一览表 第一部分[（Markdown）](tables/ext_characters_table_1.md)
+- 外字初步整理一览表 第二部分[（Markdown）](tables/ext_characters_table_2.md)
 
 ## 版本
 
