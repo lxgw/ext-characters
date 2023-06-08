@@ -2,7 +2,7 @@
 
 （2023 年 06 月 08 日 第 2 次修订）
 
-本表为[「外字初步整理表」](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)的续表，用于整理「外字初步整理表」（第一部分）之外的一些汉字，多为繁体、异体字。
+本表为[「外字初步整理表」](ext_characters_table_1.md)的续表，用于整理「外字初步整理表」（第一部分）之外的一些汉字，多为繁体、异体字。
 
 下列汉字如无特殊标注则按 Unicode 码位排序，**每个字只出现一次。** 仅供参考。
 
