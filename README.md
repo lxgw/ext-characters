@@ -41,7 +41,6 @@
 
 - [通用规范汉字表（2013）](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
 - 现代汉语通用字表（1988）
-
 - [GB/T 8565.2-1988 信息处理 文本通信用编码字符集 第二部分:图形字符集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=87A92BDBEA7EBE5843EA16378837F981)
 - 标准电码本（修订本，1983）
 - 方正、汉仪字库早期简体字库补充汉字
