@@ -28,12 +28,14 @@
 
 ## 字表
 
-- 外字初步整理一览表 第一部分[（Markdown）](tables/ext_characters_table_1.md)
-- 外字初步整理一览表 第二部分[（Markdown）](tables/ext_characters_table_2.md)
+- 外字初步整理一览表 第一部分[【Markdown】](tables/ext_characters_table_1.md)
+- 外字初步整理一览表 第二部分[【Markdown】](tables/ext_characters_table_2.md)
+
+> ㊟　目前的 Markdown 格式字表仅列出汉字，对应 Unicode 编码可通过[「字统网」](https://zi.tools/)或[「叶典」](http://yedict.com/)查询。
 
 ## 版本
 
-- 第 02 次修订：2023/06/09 [修订日志](changelog/20230608.md)
+- 第 02 次修订：2023/06/09 [【修订日志】](changelog/20230608.md)
 - 第 01 次修订：2023/01/17 （修订日志已佚）
 - 初版：第一部分 2022/11/03，第二部分 2022/12/22
 - 立项：2022/10/25
