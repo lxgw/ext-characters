@@ -1,4 +1,4 @@
-# ext-characters
+8# ext-characters
 
 「霞鹜开源字体」外字初步整理一览表
 
@@ -32,7 +32,7 @@
 - 外字初步整理一览表 第一部分[【Markdown】](tables/ext_characters_table_1.md)
 - 外字初步整理一览表 第二部分[【Markdown】](tables/ext_characters_table_2.md)
 
-> ㊟　目前的 Markdown 格式字表仅列出汉字，对应 Unicode 编码可通过[「字统网」](https://zi.tools/)或[「叶典」](http://yedict.com/)查询。
+> ㊟　目前的 Markdown 格式字表仅列出汉字，读音、释义、对应 Unicode 编码可通过[「字统网」](https://zi.tools/)或[「叶典」](http://yedict.com/)查询。
 
 ## 版本
 
@@ -52,8 +52,9 @@
 - 方正字库近期简体、简繁字库补充汉字
 - eisoch：常用的已编码汉语补充字收集 [知乎介绍](https://zhuanlan.zhihu.com/p/223300316) | [GitHub](https://github.com/eisoch/irg#subset-for-font)
 - 国际表意文字核心（IICore，2004）
-- https://github.com/NightFurySL2001/cjktables
+- [cjktables](https://github.com/NightFurySL2001/cjktables)
 - [中文手写字体在线生成：D13-通用规范汉字_补充字表](https://font.meizhanggui.com/?m=char&v=detail&id=13)
+- [常用香港外字表](https://github.com/ichitenfont/suppchara)
 
 ## 制作人员
 
