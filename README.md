@@ -1,4 +1,4 @@
-8# ext-characters
+# ext-characters
 
 「霞鹜开源字体」外字初步整理一览表
 
