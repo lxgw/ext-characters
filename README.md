@@ -52,9 +52,10 @@
 - 方正字库近期简体、简繁字库补充汉字
 - eisoch：常用的已编码汉语补充字收集 [知乎介绍](https://zhuanlan.zhihu.com/p/223300316) | [GitHub](https://github.com/eisoch/irg#subset-for-font)
 - 国际表意文字核心（IICore，2004）
-- [cjktables](https://github.com/NightFurySL2001/cjktables)
+- [cjktables by 夜煞之乐](https://github.com/NightFurySL2001/cjktables)
 - [中文手写字体在线生成：D13-通用规范汉字_补充字表](https://font.meizhanggui.com/?m=char&v=detail&id=13)
-- [常用香港外字表](https://github.com/ichitenfont/suppchara)
+- [常用香港外字表 by 一点字坊](https://github.com/ichitenfont/suppchara)
+- [通规外字整理 by 奈白不弍](https://github.com/Buernia/Waizi)
 
 ## 制作人员
 
