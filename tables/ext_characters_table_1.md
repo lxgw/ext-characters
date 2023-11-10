@@ -148,12 +148,9 @@
 
 > ☞ 参考 https://github.com/eisoch/irg/issues/85 。
 
-- **IIcore/UnihanCore 之外：** 㶉㻪䞍𠍐𠧚𡛰𡶦𢒉𣬂𤯥𪥰𪻐𫰡𫲦𬎆𬬺𮧵`⿰钅己`𰌂𰌀𰞇𰵝𰵞𰾫𲂎𲈗
+- **IIcore/UnihanCore 之外：** 㶉㻪䞍𠍐𠧚𡛰𡶦𢒉𣬂𤯥𪥰𪻐𫰡𫲦𬎆𬬺𮧵𮷵𰌂𰌀𰞇𰵝𰵞𰾫𲂎𲈗
 - **IIcore/UnihanCore 之内：** 㛅淽爕醁霑霙𠇔𡝗𥖄𧝁
 - **其他用户追加：** 䒕佀𤰉𫘥
-
-**未定码位：** `⿰钅己`
-
 ### 3.2 地名用字
 
 > ☞ 参考 https://github.com/eisoch/irg/issues/105 。
