@@ -48,6 +48,7 @@
 - 现代汉语通用字表（1988）
 - [GB/T 8565.2-1988 信息处理 文本通信用编码字符集 第二部分:图形字符集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=87A92BDBEA7EBE5843EA16378837F981)
 - 标准电码本（修订本，1983）
+- 简化字总表（1986）
 - 方正、汉仪字库早期简体字库补充汉字
 - 方正字库近期简体、简繁字库补充汉字
 - eisoch：常用的已编码汉语补充字收集 [知乎介绍](https://zhuanlan.zhihu.com/p/223300316) | [GitHub](https://github.com/eisoch/irg#subset-for-font)
