@@ -162,8 +162,6 @@
 - **IIcore/UnihanCore 之外：** 㘰㯊㵲㹧湻𣵦𣸤𤱙𪉈𪿖𫜷𬇞𬮴𰽚𱖎𱖒𱮒𲘿
 - **IIcore/UnihanCore 之内：** 㙟㱔剳噉廻櫈汎瑠瓈矴硋蟇衖𡌶
 
-**未定码位：** `⿱𰃮土`
-
 ### 3.3 科教、文化等多个领域用字
 
 > ☞ 参考 https://github.com/eisoch/irg/issues/86 。
